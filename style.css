@@ -1,0 +1,14 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  text-align: center;
+  background-color: #B2FBA5;
+  font-size: 16px;
+  font-family: cursive;
+
+img{ 
+  width: 300px;
+  border-radius: 16px;
+}
